@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController2ViewController: UIViewController, UITextFieldDelegate {
+class SettingsViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var textField: UITextField!
     @IBOutlet weak var label: UILabel!
     

@@ -2,7 +2,7 @@
 //  TipCalculatorTests.swift
 //  TipCalculatorTests
 //
-//  Created by Kumaran Kaliamoorthy on 3/6/17.
+//  Created by Rani Shivarudrappa on 3/6/17.
 //  Copyright © 2017 Home. All rights reserved.
 //
 
