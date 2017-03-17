@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3D6484151E766EF200A5AFE7 /* ViewControllerSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6484141E766EF200A5AFE7 /* ViewControllerSample.swift */; };
 		3DC0B52B1E73D6320097FFEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB6FC81E6E996100C1D0F1 /* AppDelegate.swift */; };
 		3DC0B52C1E73D6340097FFEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB6FCA1E6E996100C1D0F1 /* ViewController.swift */; };
 		3DC0B52E1E73E8860097FFEE /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0B52D1E73E8860097FFEE /* SettingsViewController.swift */; };
@@ -30,7 +29,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3D6484141E766EF200A5AFE7 /* ViewControllerSample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerSample.swift; sourceTree = "<group>"; };
 		3DC0B52D1E73E8860097FFEE /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		3DCB6FC51E6E996100C1D0F1 /* TipCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB6FC81E6E996100C1D0F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -87,7 +85,6 @@
 				3DC0B52D1E73E8860097FFEE /* SettingsViewController.swift */,
 				3DCB6FCA1E6E996100C1D0F1 /* ViewController.swift */,
 				3DCB6FCC1E6E996100C1D0F1 /* Main.storyboard */,
-				3D6484141E766EF200A5AFE7 /* ViewControllerSample.swift */,
 				3DCB6FCF1E6E996100C1D0F1 /* Assets.xcassets */,
 				3DCB6FD11E6E996100C1D0F1 /* LaunchScreen.storyboard */,
 				3DCB6FD41E6E996100C1D0F1 /* Info.plist */,
@@ -209,7 +206,6 @@
 			files = (
 				3DCB6FCB1E6E996100C1D0F1 /* ViewController.swift in Sources */,
 				3DC0B52E1E73E8860097FFEE /* SettingsViewController.swift in Sources */,
-				3D6484151E766EF200A5AFE7 /* ViewControllerSample.swift in Sources */,
 				3DCB6FC91E6E996100C1D0F1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
